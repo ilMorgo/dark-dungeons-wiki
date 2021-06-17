@@ -1,4 +1,4 @@
-# Capitolo 1: Cos’è Dark Dungeons?<span id="anchor"></span>
+# Capitolo 1: Cos’è Dark Dungeons?
 
 ## Benvenuti a Dark Dungeons!
 
@@ -7,14 +7,13 @@ acquistato Dark Dungeons perché siete fan del gioco originale originale
 che emula) potete tranquillamente saltare questo capitolo.
 
 D'altra parte, se non avete familiarità con i giochi di ruolo allora
-potrebbe esservi necessaria qualche spiegazione.<span
-id="anchor-1"></span>
+potrebbe esservi necessaria qualche spiegazione.
 
 ### Cos’è Dark Dungeons?
 
 Dark Dungeons è un gioco di ruolo retro-clone. Questo libro contiene le
-regole del gioco, e le uniche altre cose cose necessarie per giocare
-sono penne, carta e dadi.
+regole del gioco, e le uniche altre cose necessarie per giocare sono
+penne, carta e dadi.
 
 ### Cos’è un gioco di ruolo?
 

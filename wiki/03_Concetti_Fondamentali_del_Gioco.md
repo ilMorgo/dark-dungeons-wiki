@@ -52,9 +52,9 @@ Per "tirare" un d3, tira un dado normale e dimezza il risultato
 (arrotondando per eccesso). Questo vi darà:
 
 > 1 – 2 = 1
-
+>
 > 3 – 4 = 2
-
+>
 > 5 – 6 = 3
 
 Lo stesso processo di dimezzamento può essere usato con un d10 per
@@ -79,13 +79,13 @@ lancio che conta per le decine e il secondo per le unità.
 > personaggio ladro) ha scalato con successo una parete a strapiombo
 > oppure no. Per fare questo, deve tirare un d100 e ottenere un numero
 > minore o uguale all'abilità di Black Leaf di Scalare Pareti.
-
+>
 > L'abilità di Black Leaf è 87, quindi Marcie deve tirare un 87 o meno.
-
+>
 > Marcie ha un d10 rosso e un d10 bianco. Ha dichiarato all'inizio della
 > partita che userà sempre il d10 rosso come decine e il d10 bianco come
 > unità, quindi non ha bisogno di indicarlo ogni volta che tira.
-
+>
 > Tira entrambi i dadi e ottiene un 9 sul dado rosso e uno 0 sul dado
 > bianco. Quindi il suo d100 è 90, che è più di 87, pertanto Black Leaf
 > non è riuscita a scalare il muro. Se i risultati dei dadi fossero

@@ -95,8 +95,8 @@ questi lavori e missioni iniziali non comporteranno l'allontanarsi
 troppo dalla civiltà e contempleranno l'esplorazione del sottosuolo.
 
 Il **Capitolo 9:** Avventure nel sottosuolo fornisce le regole e le
-linee guida per l'esplorazione sotterranea; e il **Capitolo 10:
-**Combattimento illustra le regole per combattere qualsiasi pericolo che
+linee guida per l'esplorazione sotterranea; e il **Capitolo 10:**
+Combattimento illustra le regole per combattere qualsiasi pericolo che
 si trovi nei sotterranei.
 
 Naturalmente, tali combattimenti ed esplorazioni avranno le loro
@@ -104,9 +104,9 @@ conseguenze. Alcuni avventurieri saranno feriti. Altri moriranno. E
 quelli che sopravviveranno emergeranno più esperti e, si spera, più
 ricchi.
 
-Il **Capitolo 11:** Migliorarsi illustra le regole riguardo a come i
-personaggi si riprendono dalle ferite - sia magiche che mondane - e
-persino dalla morte; e fornisce le regole per l'acquisizione di
+Il **Capitolo 11:** Guadagnare esperienza illustra le regole riguardo a
+come i personaggi si riprendono dalle ferite - sia magiche che mondane -
+e persino dalla morte; e fornisce le regole per l'acquisizione di
 esperienza e il conseguente aumento di livello. Fornisce anche le regole
 su come gli avventurieri possono spendere le ricchezze recuperate per
 migliorare le loro abilità.

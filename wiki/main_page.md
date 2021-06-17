@@ -2,7 +2,9 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+"Per molti giocatori di ruolo, il primo amore è stata la Scatola Rossa, seguito dai supplementi successivi e dalla mitica "Enciclopedia", finora mai tradotta.
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+Finora.
 
+Dark Dungeons, ad opera di Blacky the Blackball, è per l'appunto un retro-clone di quel volume, e quella che segue ne è la traduzione italiana, fatta da appassionati per appassionati.
+Leggete quindi, e divertitevi!"
