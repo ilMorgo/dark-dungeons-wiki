@@ -442,7 +442,7 @@ ha una classe di personaggio basata sul suo background. Come giocatore,
 puoi scegliere liberamente la classe del tuo personaggio, purché i tuoi
 punteggi di abilità soddisfino alcuni criteri minimi.
 
-Consulta il **Capitolo 4: **Creazione del personaggio per ulteriori
+Consulta il **Capitolo 4:** Creazione del personaggio per ulteriori
 dettagli.
 
 La classe del personaggio determina quali tipi di armi e armature sarà

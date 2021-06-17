@@ -104,7 +104,7 @@ conseguenze. Alcuni avventurieri saranno feriti. Altri moriranno. E
 quelli che sopravviveranno emergeranno più esperti e, si spera, più
 ricchi.
 
-Il **Capitolo 11: **Migliorarsi illustra le regole riguardo a come i
+Il **Capitolo 11:** Migliorarsi illustra le regole riguardo a come i
 personaggi si riprendono dalle ferite - sia magiche che mondane - e
 persino dalla morte; e fornisce le regole per l'acquisizione di
 esperienza e il conseguente aumento di livello. Fornisce anche le regole
@@ -139,7 +139,7 @@ signore nelle terre selvagge.
 
 A questo punto, il fulcro del gioco passa da un'attività prevalentemente
 avventurosa a un'attività prevalentemente politica con avventure
-occasionali. Il **Capitolo 13: **Stabilirsi contiene le regole per
+occasionali. Il **Capitolo 13:** Stabilirsi contiene le regole per
 acquisire e gestire feudi e domini, compresa la gestione dell'economia e
 l'attrazione (e la gestione del benessere) della popolazione nella nuova
 area.
@@ -156,7 +156,7 @@ falliscano.
 Tutto questo significa che la vita non è solo organizzare feste e
 assicurarsi che i conti si bilancino. C'è ancora molto intrigo e
 diplomazia e, se tutto il resto fallisce, c'è sempre la possibilità che
-la situazione precipiti in guerra aperta. Il **Capitolo 14: **Guerra!
+la situazione precipiti in guerra aperta. Il **Capitolo 14:** Guerra!
 contiene le regole per gli eserciti e per le battaglie campali.
 
 ### Un nuovo terreno di gioco
@@ -188,7 +188,7 @@ Ad un certo punto, gli avventurieri vorranno unirsi ai ranghi degli
 Immortali stessi. Farlo non è mai facile, e di solito implica sia
 trovare un Immortale esistente disposto a fungere da patrono, sia
 sottoporsi a una lunga cerca per dimostrare il proprio valore. Il
-**Capitolo 16: **La cerca dell'Immortalità fornisce i dettagli di questo
+**Capitolo 16:** La cerca dell'Immortalità fornisce i dettagli di questo
 processo.
 
 ### Un nuovo inizio
@@ -214,7 +214,7 @@ nuovi orizzonti che tale condizione implica. Altri ancora si ritirano
 completamente dall'avventura e vivono semplicemente una vita di comodità
 ed edonismo, liberi dalle preoccupazioni dei mortali.
 
-Il **Capitolo 17: **Gli Immortali contiene le regole per giocare a tali
+Il **Capitolo 17:** Gli Immortali contiene le regole per giocare a tali
 livelli.
 
 Qualunque sia la passione di un Immortale, l'Immortalità è la ricompensa
@@ -227,10 +227,10 @@ Master. Questo non vuol dire che non dovreste leggerle se non sarete il
 Game Master, ma non c'è motivo di farlo e potreste rovinarvi il
 divertimento leggendole.
 
-Il **Capitolo 18: **Mostri contiene le abilità e le descrizioni dei vari
+Il **Capitolo 18:** Mostri contiene le abilità e le descrizioni dei vari
 tipi di mostri che si possono incontrare nel corso di un'avventura.
 
-Il **Capitolo 19: **Tesori contiene informazioni sul tipo di tesori che
+Il **Capitolo 19:** Tesori contiene informazioni sul tipo di tesori che
 si possono trovare e le descrizioni di molti oggetti magici che gli
 avventurieri possono rinvenire o addirittura fabbricare durante la loro
 carriera.
@@ -242,6 +242,6 @@ sicurezza.
 
 Questo non significa che i mortali non li usino comunque, ovviamente.
 
-Infine, il **Capitolo 21: **Consigli per il Game Master contiene
+Infine, il **Capitolo 21:** Consigli per il Game Master contiene
 numerosi altri consigli e suggerimenti per il Game Master che non
 rientrano in nessun altro capitolo.

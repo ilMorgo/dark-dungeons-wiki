@@ -1,4 +1,4 @@
-# Capitolo 1: Cos’è Dark Dungeons?
+# Capitolo 1: Cos’è Dark Dungeons?<span id="anchor"></span>
 
 ## Benvenuti a Dark Dungeons!
 
@@ -7,7 +7,8 @@ acquistato Dark Dungeons perché siete fan del gioco originale originale
 che emula) potete tranquillamente saltare questo capitolo.
 
 D'altra parte, se non avete familiarità con i giochi di ruolo allora
-potrebbe esservi necessaria qualche spiegazione.
+potrebbe esservi necessaria qualche spiegazione.<span
+id="anchor-1"></span>
 
 ### Cos’è Dark Dungeons?
 

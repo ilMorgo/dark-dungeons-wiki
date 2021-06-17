@@ -97,7 +97,101 @@ giocare prima di iniziare a modificarli.
 
 Table 4-1: requisiti d’abilità per classe
 
-[TABLE]
+<table>
+<tbody>
+<tr class="odd">
+<td>Classe</td>
+<td>Abilità</td>
+<td>Bonus all’Esperienza</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Può essere potenziata</td>
+<td>Può essere sacrificata</td>
+<td>Requisiti minimi</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chierico</td>
+<td>Saggezza</td>
+<td><p>Forza</p>
+<p>Intelligenza</p></td>
+<td>Saggezza 9</td>
+<td><p>Sag 13–15 = +5%</p>
+<p>Sag 16+ = +10%</p></td>
+</tr>
+<tr class="even">
+<td>Elfo</td>
+<td><p>Forza</p>
+<p>Intelligenza</p></td>
+<td>Saggezza</td>
+<td>Intelligenza 9</td>
+<td><p>For 13+ o Int 13+ = +5%</p>
+<p>For 13+ e Int 13+ = +10%</p></td>
+</tr>
+<tr class="odd">
+<td>Guerriero</td>
+<td>Forza</td>
+<td><p>Intelligenza</p>
+<p>Saggezza</p></td>
+<td>Forza 9</td>
+<td><p>For 13–15 = +5%</p>
+<p>For 16+ = +10%</p></td>
+</tr>
+<tr class="even">
+<td>Halfling</td>
+<td><p>Forza</p>
+<p>Destrezza</p></td>
+<td><p>Intelligenza</p>
+<p>Saggezza</p></td>
+<td><p>Destrezza 9</p>
+<p>Costituzion 9</p></td>
+<td><p>For 13+ o Des 13+ = +5%</p>
+<p>For 13+ e Des 13+ = +10%</p></td>
+</tr>
+<tr class="odd">
+<td>Ladro</td>
+<td>Destrezza</td>
+<td><p>Forza</p>
+<p>Intelligenza</p>
+<p>Saggezza</p></td>
+<td>Destrezza 9</td>
+<td><p>Des 13–15 = +5%</p>
+<p>Des 16+ = +10%</p></td>
+</tr>
+<tr class="even">
+<td>Mago</td>
+<td>Intelligenza</td>
+<td><p>Forza</p>
+<p>Saggezza</p></td>
+<td>Intelligenza 9</td>
+<td><p>Int 13–15 = +5%</p>
+<p>Int 16+ = +10%</p></td>
+</tr>
+<tr class="odd">
+<td>Mistico</td>
+<td><p>Forza</p>
+<p>Destrezza</p></td>
+<td><p>Intelligenza</p>
+<p>Saggezza</p></td>
+<td><p>Saggezza 14</p>
+<p>Destrezza 13</p></td>
+<td><p>For 13–15 = +5%</p>
+<p>For 16+ = +10%</p></td>
+</tr>
+<tr class="even">
+<td>Nano</td>
+<td>Forza</td>
+<td><p>Intelligenza</p>
+<p>Saggezza</p></td>
+<td>Costituzione 9</td>
+<td><p>For 13–15 = +5%</p>
+<p>For 16+ = +10%</p></td>
+</tr>
+</tbody>
+</table>
 
 Infine, ogni classe può dare al personaggio un bonus (o a volte una
 penalità) all'esperienza guadagnata se ha punteggi abbastanza alti in
