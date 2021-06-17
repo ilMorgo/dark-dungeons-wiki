@@ -41,17 +41,17 @@ superiore a 9, o se due o più dei tuoi lanci sono 6 o meno, allora
 rilancia tutti e sei i punteggi.
 
 > Esempio: Marcie tira 3d6 sei volte in ordine e ottiene:
-
+>
 > For: 10
-
+>
 > Int: 8
-
+>
 > Sag: 12
-
+>
 > Des: 14
-
+>
 > Cos: 9
-
+>
 > Car: 11
 
 È soddisfatta dell'alta destrezza, che si adatta bene al suo concetto,
@@ -215,19 +215,19 @@ Guadagnare esperienza.
 > destrezza di due punti fino a 16. Lo fa lieta che, come ladra, il
 > grande punteggio di destrezza di Black Leaf le darà un bonus del +10%
 > all'esperienza guadagnata.
-
+>
 > Black Leaf ora ha i seguenti punteggi di abilità:
-
+>
 > For: 9
-
+>
 > Int: 8
-
+>
 > Sag: 9
-
+>
 > Des: 16
-
+>
 > Cos: 9
-
+>
 > Car: 11
 
 ### Passo 4) Annotare i dettagli della classe 
