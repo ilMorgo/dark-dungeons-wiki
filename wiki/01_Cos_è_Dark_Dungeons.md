@@ -3,7 +3,7 @@
 ## Benvenuti a Dark Dungeons!
 
 Se già giocate ai giochi di ruolo da tavolo (e in particolare se avete
-acquistato Dark Dungeons perché siete fan del gioco originale originale
+acquistato Dark Dungeons perché siete fan del gioco originale
 che emula) potete tranquillamente saltare questo capitolo.
 
 D'altra parte, se non avete familiarità con i giochi di ruolo allora
