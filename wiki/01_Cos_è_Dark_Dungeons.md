@@ -24,7 +24,7 @@ ruolo usarono i giochi di guerra, insieme a giochi d'infanzia "guardie e
 ladri" e "Cowboys e Indiani", come punti di riferimento.
 
 Tuttavia, ora che siamo nel secondo decennio del 21° secolo, i tempi - e
-i punti di punti di riferimento culturali - sono cambiati.
+i punti di riferimento culturali - sono cambiati.
 
 Per la maggior parte delle persone oggi, il termine "gioco di ruolo"
 viene solitamente abbreviato in "RPG" e di solito è preceduto dalle
