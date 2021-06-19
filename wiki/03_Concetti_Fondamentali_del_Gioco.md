@@ -28,7 +28,7 @@ mentre un dado con venti facce è chiamato 'd20'.
 Un normale set di dadi poliedrici viene fornito con un dado a quattro
 facce, un dado a sei facce, un dado a otto facce, uno o due dadi a dieci
 facce, un dado a dodici facce e un dado a venti facce - o, per usare la
-terminologia di Dark DungeonS, un d4, un d6, un d8, uno o due d10, un
+terminologia di Dark Dungeons, un d4, un d6, un d8, uno o due d10, un
 d12 e un d20.
 
 Quindi, se le regole dicono di tirare un d20 per qualcosa, significa che
