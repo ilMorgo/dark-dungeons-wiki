@@ -264,7 +264,7 @@ potrebbero richiederle. I bonus o le penalità di Costituzione sono
 applicati ai tiri per determinare i punti ferita che un personaggio
 guadagna ad ogni livello.
 
-### Carisma (abbreviata come “Car”)
+### Carisma (abbreviata come “**Car**”)
 
 Il carisma rappresenta la simpatia e la forza della personalità di un
 personaggio.
