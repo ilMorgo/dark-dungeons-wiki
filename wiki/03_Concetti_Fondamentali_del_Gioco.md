@@ -162,7 +162,7 @@ particolarmente mostruosi o ostili. Alcuni di loro sono semplicemente
 personaggi neutrali e persino alleati dei personaggi del giocatore che
 sono controllati dal Game Master. I mostri intelligenti, in particolare
 quelli con cui i giocatori interagiscono socialmente invece di
-combattere, sono spesso indicati come personaggi non giocanti
+combattere, sono spesso indicati come Personaggi Non Giocanti
 (abbreviato in "PNG").
 
 Poiché le diverse capacità delle diverse creature e personaggi possono
