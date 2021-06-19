@@ -149,7 +149,7 @@ Tabella 3-1: Punteggi d’abilità e modificatori
 | 99                  | 19                    | 23                       | 26                        | 10  | 10  |
 | 100                 | 20                    | 24                       | 27                        | 10  | 10  |
 
-## **Attributi** delle creature
+## Attributi delle creature
 
 Le creature (comprese le persone) in Dark Dungeons sono divise in due
 grandi categorie, i Personaggi Giocanti (spesso abbreviato in "PG"), che
