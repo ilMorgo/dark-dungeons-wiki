@@ -256,7 +256,7 @@ personaggio.
 
 I personaggi con un'alta costituzione sono probabilmente in forma e in
 salute, mentre quelli con una bassa costituzione hanno maggiori
-probabilità di ammalarsi e di resta facilmente senza fiato.
+probabilità di ammalarsi e di restare facilmente senza fiato.
 
 Le prove di costituzione vengono effettuate raramente, anche se alcune
 circostanze circostanze in cui la resistenza e il vigore sono importanti
