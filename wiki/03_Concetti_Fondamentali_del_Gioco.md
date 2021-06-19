@@ -201,7 +201,7 @@ dado e prove. La Tabella 3-1 mostra i modificatori per i diversi valori
 di punteggio di abilità (include valori molto più alti di 18, poiché i
 personaggi Immortali possono raggiungere punteggi più elevati).
 
-### Forza (abbreviata come “F**or**”)
+### Forza (abbreviata come “**For**”)
 
 La forza necessita di poche spiegazioni. Rappresenta la potenza
 muscolare grezza di un personaggio. Le prove di forza vengono effettuate
