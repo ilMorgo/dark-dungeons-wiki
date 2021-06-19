@@ -313,7 +313,7 @@ bersaglio saranno ridotti.
 ### Bonus d’attacco
 
 Il bonus d'attacco di un personaggio o di una creatura rappresenta la
-sia abilità di combattimento. Per i personaggi si basa sul loro livello
+sua abilità di combattimento. Per i personaggi si basa sul loro livello
 e sulla loro classe. Per i mostri è basato sui loro Dadi Vita. Il bonus
 di attacco parte da +0, che rappresenta una persona o un mostro
 completamente inesperto e disabituato al combattimento, e aumenta con
