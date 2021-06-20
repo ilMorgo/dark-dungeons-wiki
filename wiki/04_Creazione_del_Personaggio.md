@@ -24,12 +24,12 @@ iniziato la sua carriera di avventuriero. Allo stesso modo, se il vostro
 GM ha deciso che la campagna si svolgerà in un mondo dove gli umani sono
 l'unica razza, non va bene decidere che volete giocare un elfo.
 
-Esempio: Marcie decide che le piacerebbe interpretare un giovane
-spensierato che, stanco di viaggiare sulle carovane di mercanti con i
-suoi genitori, vuole invece partire per una vita di avventura.
-Visualizza il personaggio, che chiama Black Leaf, possibilmente magico
-(forse un elfo) ma sicuramente qualcuno alto e snello, dal passo leggero
-e molto agile piuttosto che appesantito dall'armatura.
+> Esempio: Marcie decide che le piacerebbe interpretare un giovane
+> spensierato che, stanco di viaggiare sulle carovane di mercanti con i
+> suoi genitori, vuole invece partire per una vita di avventura.
+> Visualizza il personaggio, che chiama Black Leaf, possibilmente magico
+> (forse un elfo) ma sicuramente qualcuno alto e snello, dal passo leggero
+> e molto agile piuttosto che appesantito dall'armatura.
 
 ### Passo 2) **Generare** i punteggi delle abilità 
 
