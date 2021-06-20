@@ -19,10 +19,10 @@ con personaggi di primo livello (che è il modo usuale di iniziare una
 partita) allora decidere di voler giocare un capitano pirata esperto di
 cappa e spada che è inoltre un rinomato schermidore non funzionerà.
 Fareste meglio a decidere di voler interpretare qualcuno che aspira a
-diventare un capitano di pirati di cappa e spada ma che ha appena
+diventare un capitano di pirati di cappa e spada ma che abbia appena
 iniziato la sua carriera di avventuriero. Allo stesso modo, se il vostro
 GM ha deciso che la campagna si svolgerà in un mondo dove gli umani sono
-l'unica razza, non va bene decidere che volete giocare un elfo.
+l'unica razza, non va bene decidere che vogliate giocare un elfo.
 
 Esempio: Marcie decide che le piacerebbe interpretare un giovane
 spensierato che, stanco di viaggiare sulle carovane di mercanti con i
