@@ -31,7 +31,7 @@ Visualizza il personaggio, che chiama Black Leaf, possibilmente magico
 (forse un elfo) ma sicuramente qualcuno alto e snello, dal passo leggero
 e molto agile piuttosto che appesantito dall'armatura.
 
-### Passo 2) **Generare** i punteggi delle abilità 
+### Passo 2) Generare i punteggi delle abilità 
 
 Su un pezzo di carta, scrivi ciascuna delle sei abilità in ordine
 (Forza, Intelligenza, Saggezza, Destrezza, Costituzione, Carisma) e tira
